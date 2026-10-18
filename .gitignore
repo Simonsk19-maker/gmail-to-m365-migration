@@ -1,0 +1,8 @@
+# The real users.csv holds Gmail APP PASSWORDS - never commit it.
+Config/users.csv
+Config/*.csv
+!Config/users.example.csv
+!Config/contacts.example.csv
+
+# Logs hold real email addresses and mailbox stats
+Logs/
